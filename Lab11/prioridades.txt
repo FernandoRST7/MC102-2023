@@ -1,0 +1,5 @@
+prioridade de movimentação:
+-
+
+prioridade de display (ultimo a ser alterado):
+-
